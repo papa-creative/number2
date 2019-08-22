@@ -25,6 +25,6 @@ export default {
 <style>
 .home-links a {
   margin-right: 1rem;
-  color: pink;
+  color: blue;
 }
 </style>
