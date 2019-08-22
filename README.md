@@ -1,2 +1,1 @@
-# number2
-Created with CodeSandbox
+# Gridsome starter for codesandbox
